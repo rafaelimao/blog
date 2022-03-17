@@ -1,0 +1,9 @@
+.main {
+    display: block;
+    place-items: center;
+    text-align: center;
+}
+
+.main h1 {
+    margin: 0;
+}
